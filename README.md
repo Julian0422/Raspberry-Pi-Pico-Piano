@@ -1,3 +1,5 @@
+![1](https://user-images.githubusercontent.com/106225286/178461232-8d297263-611c-4818-afe6-dddb137c4bf9.png)
+
 Raspberry Pi Pico Piano – Part 1 (88-key piano with only 14 buttons)
 
 Most musical instruments are portable, but have you ever thought about taking your piano to a picnic or even camping? You might say it's impossible. There's no way to get that giant instrument outside, even if it's just for class. But I suppose you might be wrong this time, and I made a portable piano with complete 88-keys piano by using a Raspberry Pi Pico 
@@ -7,6 +9,9 @@ There are many foldable digital pianos in the market, and some can fold one time
 I tried to use DesignSpark PCB to draw the schematic diagram and translate it to PCB, it worked very well. But there are some components that the DesignSpark library doesn't have, then I went to SnapEDA to download and it was easy to import into DesignSpark PCB.
 
 PCB Design
+![2](https://user-images.githubusercontent.com/106225286/178461240-fdebca2a-bb3f-4c2f-b267-b503d07583e4.png)
+![3](https://user-images.githubusercontent.com/106225286/178461242-57e9bcb4-deb0-4748-a59c-1ea99d01d18b.png)
+![4](https://user-images.githubusercontent.com/106225286/178461247-ae4a035d-efdb-4ae7-a5a6-dc486e913b11.png)
 
 Raspberry Pi Pico Piano – Part 2 (Play two notes simultaneously)
 
