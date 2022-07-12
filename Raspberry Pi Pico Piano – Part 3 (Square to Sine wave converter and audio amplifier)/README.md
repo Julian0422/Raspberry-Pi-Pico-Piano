@@ -4,12 +4,12 @@ We know that the output PWM signal of the Raspberry Pi Pico is a square wave. Bu
 
 First, let’s see how the output PWM signal by the Raspberry Pi Pico is. Below, I used an oscilloscope to measure the PWM signal by the Raspberry Pi Pico. We can see that there is a Sine wave outputted.
 
-
+![Picture1](https://user-images.githubusercontent.com/106225286/178463287-bcc39e9c-d901-4847-a366-f0e60191366f.png)
 
 Then, I tried to use an RC Low Pass Filter to reject the high frequency.
 
-
-
+![Picture2](https://user-images.githubusercontent.com/106225286/178463291-b7cc8187-9e3e-436c-a816-d731ccefe338.png)
+![Picture3](https://user-images.githubusercontent.com/106225286/178463278-e5346939-ac54-4d7f-8d29-d83936b99250.jpg)
 
 After I put the first RC stage, we can see that the output signal becomes more like a sine wave, which is an excellent start to making it a real piano.
 
