@@ -16,10 +16,10 @@ After I put the first RC stage, we can see that the output signal becomes more l
 Let’s try to implement the second RC stage to see whether the output signal can become more like a sine wave.
 
 ![Picture4](https://user-images.githubusercontent.com/106225286/178462420-9962139c-bc10-46b9-83fe-0274a60f954b.png)
+![Picture5](https://user-images.githubusercontent.com/106225286/178462427-99f4eb46-050f-4421-88e9-64fb64bc1263.jpg)
 
 The output sine wave looks better. But having it as a sine wave still goes a long way. Let’s add one more RC stage.
 
-![Picture5](https://user-images.githubusercontent.com/106225286/178462427-99f4eb46-050f-4421-88e9-64fb64bc1263.jpg)
 ![Picture6](https://user-images.githubusercontent.com/106225286/178462431-d33569aa-9212-4da2-85ed-e0afb80d86bf.png)
 
 Now, we can observe a perfect sine wave. However, the trade-off is that we reduce the output signal level.
