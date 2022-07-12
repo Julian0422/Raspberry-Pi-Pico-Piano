@@ -1,3 +1,6 @@
+#define BUZZER1 12
+#define BUZZER2 15
+
 #define TEMPO 3500
 #define PAUSE 100     // length of pause between notes
 
